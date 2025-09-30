@@ -1,0 +1,6 @@
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\t5kp10a.lib, offset=305, size=552
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\MAX4376H.lib, offset=316, size=780
+ lib=C:\Cadence\SPB_16.6\tools\pspice\library\STD18NF03Lmodif.lib, offset=1318, size=912
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\irf.lib, offset=62631, size=655
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\anlg_dev.lib, offset=575250, size=2521
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\nat_semi.lib, offset=201087, size=4269
